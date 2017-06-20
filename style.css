@@ -1,0 +1,14 @@
+#grid_container{
+	width: 960px;
+	margin: 0 auto;
+}
+.square{
+	border: 1px solid #000;
+	min-height: 1px;
+	min-width: 1px;
+
+}
+
+.red{
+	background-color: red;
+}
